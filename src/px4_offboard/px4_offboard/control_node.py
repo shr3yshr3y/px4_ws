@@ -10,11 +10,11 @@ from geometry_msgs.msg import PoseStamped
 from mavros_msgs.msg import State
 from mavros_msgs.srv import CommandBool, SetMode
 
-# Instructions displayed to the user
+# Instructions displayed to the user hello
 msg = """
 --------------------------------
    PX4 Key Teleop Controller
---------------------------------
+--------------------------------oiuhkuibgjytfhdf
    Moving (Step: 1m):
    w: Forward (x+)
    s: Backward (x-)
